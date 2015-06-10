@@ -1,0 +1,7 @@
+﻿<Application
+    x:Class="FBMessenger_unofficial_windows_8_.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:FBMessenger_unofficial_windows_8_">
+
+</Application>
